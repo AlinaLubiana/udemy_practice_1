@@ -44,7 +44,7 @@
 // console.log(personalMovieDB);
 
 
-// // условия в JS (if, else)
+// // условия в JS (if, else) 20. Условия
 // if (4 == 9) {
 //     console.log('Ok');
 // } else {
